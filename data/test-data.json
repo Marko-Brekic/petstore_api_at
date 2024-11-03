@@ -1,0 +1,9 @@
+{
+    "user": {
+        "password": "jdoe"
+    },
+    "pet": {
+        "initialImage": "https://www.hollywoodfishfarm.co.nz/wp-content/uploads/2022/06/Celestial-Goldfish.png",
+        "updatedImage": "https://www.madeinsea.co/cdn/shop/articles/bubble-eye-goldfish-biography.jpg?v=1696202268&width=1024"
+    }
+}
