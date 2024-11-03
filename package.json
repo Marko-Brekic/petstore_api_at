@@ -2,7 +2,9 @@
   "name": "petstoreapi",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test --workers=1 --retries=1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
